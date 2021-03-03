@@ -33,6 +33,10 @@ Midoriya is a open source Discord bot coded in JavaScript with [Discord.js](http
 </br></br>
 <a href="https://discord.gg/63fNqFXs9d"><img src="https://invidget.switchblade.xyz/63fNqFXs9d"/></a>
 <br><br>
+* **BetaDevs Studio**
+</br></br>
+<a href="https://discord.gg/BWqzx6mg83"><img src="https://invidget.switchblade.xyz/BWqzx6mg83"/></a>
+<br><br>
 
 ## Bot Setup  🔊
 * **Clone the Repo** by typing ``git clone https://github.com/Beta-Devs/Midoriya-Logger`` or Download the .rar file by clicking **[Here](https://github.com/Beta-Devs/Midoriya-Logger/archive/main.zip)**
